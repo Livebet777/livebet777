@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="3;url=https://livebet777.asia/register?referral=d2xsYjdfYWhyb3kxNjg4">
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 10%;
+    }
+    .loading {
+      font-size: 1.5em;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+    a {
+      color: #0ff;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎉 Redirecting to Livebet777...</h1>
+  <p class="loading">Please wait, you’ll be redirected in 3 seconds ⏳</p>
+  <br>
+  <h1>🎉 正在跳转到 Livebet777...</h1>
+  <p class="loading">请稍候，3 秒后自动跳转 ⏳</p>
+  <br>
+  <p>If not redirected, click 👉 <a href="https://livebet777.asia/register?referral=d2xsYjdfYWhyb3kxNjg4">here</a></p>
+  <p>若未跳转，请点击 👉 <a href="https://livebet777.asia/register?referral=d2xsYjdfYWhyb3kxNjg4">这里</a></p>
+</body>
+</html>
